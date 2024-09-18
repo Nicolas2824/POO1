@@ -1,0 +1,14 @@
+C:\Users\sntg_\OneDrive\Escritorio\Tarea\Solucion\Tarea_06\bin\Debug\net8.0\Tarea_06.exe
+C:\Users\sntg_\OneDrive\Escritorio\Tarea\Solucion\Tarea_06\bin\Debug\net8.0\Tarea_06.deps.json
+C:\Users\sntg_\OneDrive\Escritorio\Tarea\Solucion\Tarea_06\bin\Debug\net8.0\Tarea_06.runtimeconfig.json
+C:\Users\sntg_\OneDrive\Escritorio\Tarea\Solucion\Tarea_06\bin\Debug\net8.0\Tarea_06.dll
+C:\Users\sntg_\OneDrive\Escritorio\Tarea\Solucion\Tarea_06\bin\Debug\net8.0\Tarea_06.pdb
+C:\Users\sntg_\OneDrive\Escritorio\Tarea\Solucion\Tarea_06\obj\Debug\net8.0\Tarea_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sntg_\OneDrive\Escritorio\Tarea\Solucion\Tarea_06\obj\Debug\net8.0\Tarea_06.AssemblyInfoInputs.cache
+C:\Users\sntg_\OneDrive\Escritorio\Tarea\Solucion\Tarea_06\obj\Debug\net8.0\Tarea_06.AssemblyInfo.cs
+C:\Users\sntg_\OneDrive\Escritorio\Tarea\Solucion\Tarea_06\obj\Debug\net8.0\Tarea_06.csproj.CoreCompileInputs.cache
+C:\Users\sntg_\OneDrive\Escritorio\Tarea\Solucion\Tarea_06\obj\Debug\net8.0\Tarea_06.dll
+C:\Users\sntg_\OneDrive\Escritorio\Tarea\Solucion\Tarea_06\obj\Debug\net8.0\refint\Tarea_06.dll
+C:\Users\sntg_\OneDrive\Escritorio\Tarea\Solucion\Tarea_06\obj\Debug\net8.0\Tarea_06.pdb
+C:\Users\sntg_\OneDrive\Escritorio\Tarea\Solucion\Tarea_06\obj\Debug\net8.0\Tarea_06.genruntimeconfig.cache
+C:\Users\sntg_\OneDrive\Escritorio\Tarea\Solucion\Tarea_06\obj\Debug\net8.0\ref\Tarea_06.dll

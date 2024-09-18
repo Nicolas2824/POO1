@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sntg_\\OneDrive\\Escritorio\\Tarea\\Solucion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7672F956-8574-4531-BEFC-0D2E5DCA009D}|Tarea_09\\Tarea_09.csproj|c:\\users\\sntg_\\onedrive\\escritorio\\tarea\\solucion\\tarea_09\\pelota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672F956-8574-4531-BEFC-0D2E5DCA009D}|Tarea_09\\Tarea_09.csproj|solutionrelative:tarea_09\\pelota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B872CA-5B13-496E-BD37-73D4678608FC}|Tarea_08\\Tarea_08.csproj|c:\\users\\sntg_\\onedrive\\escritorio\\tarea\\solucion\\tarea_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B872CA-5B13-496E-BD37-73D4678608FC}|Tarea_08\\Tarea_08.csproj|solutionrelative:tarea_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B872CA-5B13-496E-BD37-73D4678608FC}|Tarea_08\\Tarea_08.csproj|c:\\users\\sntg_\\onedrive\\escritorio\\tarea\\solucion\\tarea_08\\asesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B872CA-5B13-496E-BD37-73D4678608FC}|Tarea_08\\Tarea_08.csproj|solutionrelative:tarea_08\\asesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1362E57-C267-4180-B1C0-711CC8BDA03C}|Tarea_07\\Tarea_07.csproj|c:\\users\\sntg_\\onedrive\\escritorio\\tarea\\solucion\\tarea_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1362E57-C267-4180-B1C0-711CC8BDA03C}|Tarea_07\\Tarea_07.csproj|solutionrelative:tarea_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1362E57-C267-4180-B1C0-711CC8BDA03C}|Tarea_07\\Tarea_07.csproj|c:\\users\\sntg_\\onedrive\\escritorio\\tarea\\solucion\\tarea_07\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1362E57-C267-4180-B1C0-711CC8BDA03C}|Tarea_07\\Tarea_07.csproj|solutionrelative:tarea_07\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pelota.cs",
+              "DocumentMoniker": "C:\\Users\\sntg_\\OneDrive\\Escritorio\\Tarea\\Solucion\\Tarea_09\\Pelota.cs",
+              "RelativeDocumentMoniker": "Tarea_09\\Pelota.cs",
+              "ToolTip": "C:\\Users\\sntg_\\OneDrive\\Escritorio\\Tarea\\Solucion\\Tarea_09\\Pelota.cs",
+              "RelativeToolTip": "Tarea_09\\Pelota.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAUwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:43:20.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sntg_\\OneDrive\\Escritorio\\Tarea\\Solucion\\Tarea_08\\Program.cs",
+              "RelativeDocumentMoniker": "Tarea_08\\Program.cs",
+              "ToolTip": "C:\\Users\\sntg_\\OneDrive\\Escritorio\\Tarea\\Solucion\\Tarea_08\\Program.cs",
+              "RelativeToolTip": "Tarea_08\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:43:16.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Asesor.cs",
+              "DocumentMoniker": "C:\\Users\\sntg_\\OneDrive\\Escritorio\\Tarea\\Solucion\\Tarea_08\\Asesor.cs",
+              "RelativeDocumentMoniker": "Tarea_08\\Asesor.cs",
+              "ToolTip": "C:\\Users\\sntg_\\OneDrive\\Escritorio\\Tarea\\Solucion\\Tarea_08\\Asesor.cs",
+              "RelativeToolTip": "Tarea_08\\Asesor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:43:04.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sntg_\\OneDrive\\Escritorio\\Tarea\\Solucion\\Tarea_07\\Program.cs",
+              "RelativeDocumentMoniker": "Tarea_07\\Program.cs",
+              "ToolTip": "C:\\Users\\sntg_\\OneDrive\\Escritorio\\Tarea\\Solucion\\Tarea_07\\Program.cs",
+              "RelativeToolTip": "Tarea_07\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:42:58.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\sntg_\\OneDrive\\Escritorio\\Tarea\\Solucion\\Tarea_07\\Empleado.cs",
+              "RelativeDocumentMoniker": "Tarea_07\\Empleado.cs",
+              "ToolTip": "C:\\Users\\sntg_\\OneDrive\\Escritorio\\Tarea\\Solucion\\Tarea_07\\Empleado.cs",
+              "RelativeToolTip": "Tarea_07\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:37:36.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

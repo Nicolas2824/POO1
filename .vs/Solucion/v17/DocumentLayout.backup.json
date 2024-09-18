@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sntg_\\OneDrive\\Escritorio\\Tarea\\Solucion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3DBF1A-B509-4627-80FF-5EC4158D82E5}|Tarea_02\\Tarea_02.csproj|c:\\users\\sntg_\\onedrive\\escritorio\\tarea\\solucion\\tarea_02\\computadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3DBF1A-B509-4627-80FF-5EC4158D82E5}|Tarea_02\\Tarea_02.csproj|solutionrelative:tarea_02\\computadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Computadora.cs",
+              "DocumentMoniker": "C:\\Users\\sntg_\\OneDrive\\Escritorio\\Tarea\\Solucion\\Tarea_02\\Computadora.cs",
+              "RelativeDocumentMoniker": "Tarea_02\\Computadora.cs",
+              "ToolTip": "C:\\Users\\sntg_\\OneDrive\\Escritorio\\Tarea\\Solucion\\Tarea_02\\Computadora.cs",
+              "RelativeToolTip": "Tarea_02\\Computadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:08:33.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
